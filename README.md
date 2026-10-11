@@ -215,4 +215,4 @@ HDShredder is available as a complete free version with all features and updates
 Secure your data and enhance your privacy today! **Download HDShredder free now** and take the first step toward protecting your sensitive information.
 
 ---
-**Last updated:** 2026-10-11 15:24:32 UTC
+**Last updated:** 2026-10-11 20:00:12 UTC
